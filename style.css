@@ -1,0 +1,13 @@
+h1 {
+    color: Blue;
+  }
+
+  p {
+    background-color: #4CAF50;
+  }
+ 
+
+  <div class="container">
+  <div class="card"></div>
+  <div class="card"></div>
+</div>
